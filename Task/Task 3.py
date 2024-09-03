@@ -1,6 +1,6 @@
 # -Q.1 Explain the difference between the = operator and the == operator in Python.
 # Ans = operator is assignment operator is used to declare or assign value to variables.
-# while == is arithmetic operator is used to check the condition.
+# while == is comparision operator is used to check the condition.
 # Q.2 - What does the ** operator do in Python, and how is it used?
 # Ans: ** operator is used to find the power of number e.g 2**3=8
 num = (8 ^ 4) #Sets each bit to 1 if only one of two bits is 1
